@@ -1,0 +1,56 @@
+@import "var";
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+  outline: none;
+}
+html{
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body{
+  width: 100%;
+  font: 12px/20px "Microsfot Yahei",arial, "Hiragino Sans GB", sans-serif;
+  background-color: #fff;
+  color: #444;
+  overflow-x: hidden;
+  height: 100%;
+}
+ul,div,select,input,textarea{-webkit-tap-highlight-color:rgba(255,255,255,0);}
+ul,li{
+  list-style: none;
+}
+a{
+  color: #404040;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+fieldset,
+img {
+  border: 0;
+}
+ol,
+ul {
+  list-style: none;
+}
+input,button{
+  -webkit-appearance:none;
+  font-size: 12px;
+}
+.f-yellow,a.f-yellow{
+  color: @yellow-color;
+}
+.f-blue,a.f-blue,.f-blue a{
+  color: @blue-color;
+}
+.fr{
+  float: right;
+}

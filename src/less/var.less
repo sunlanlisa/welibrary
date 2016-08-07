@@ -1,0 +1,35 @@
+@white-color:#fff;
+@black-color:#444;
+@bd-gray:#E1E1E1;
+@gray-color:#888;
+@yellow-color:#F17836;
+@blue-color:#0A59B4;
+@red-color: #f8272a;
+
+
+@gray-bd: #eee solid 1px;
+@rem:0.0625;
+@family:"Microsfot Yahei",arial, "Hiragino Sans GB", sans-serif;
+
+.bd-rd(@radius){
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  border-radius: @radius;
+}
+
+.shadow(@set){
+  -webkit-box-shadow: @set;
+  -moz-box-shadow: @set;
+  box-shadow: @set;
+}
+
+.clearfix{
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}

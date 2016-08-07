@@ -1,0 +1,31 @@
+{
+  "name": "welibrary",
+  "version": "1.0.0",
+  "description": "mobile service for library work",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "lanlan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunlanlisa/welibrary.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "sunlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunlanlisa/welibrary/issues"
+  },
+  "homepage": "https://github.com/sunlanlisa/welibrary#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {}
+}
