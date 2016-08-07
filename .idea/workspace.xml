@@ -37,21 +37,53 @@
       <file leaf-file-name="recommend-book.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend-book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="63" selection-start="566" selection-end="566" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="825">
+            <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="327">
+            <state line="2" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search-cm.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search-cm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="56" selection-start="2455" selection-end="2455" vertical-scroll-proportion="0.48630136" vertical-offset="758" max-vertical-offset="1245">
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="56" selection-start="2383" selection-end="2383" vertical-scroll-proportion="-4.591837" vertical-offset="255" max-vertical-offset="825">
+              <folding>
+                <element signature="tag#ul#0;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-bind.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login-bind.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -67,7 +99,7 @@
       <file leaf-file-name="my-book.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="17" selection-start="629" selection-end="1053" vertical-scroll-proportion="-10.625" vertical-offset="90" max-vertical-offset="990">
+            <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -76,7 +108,7 @@
       <file leaf-file-name="no-book.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/no-book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="753" selection-end="759" vertical-scroll-proportion="-10.291667" vertical-offset="8" max-vertical-offset="420">
+            <state line="4" column="22" selection-start="73" selection-end="79" vertical-scroll-proportion="-2.1666667" vertical-offset="8" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -86,33 +118,6 @@
         <entry file="file://$PROJECT_DIR$/src/less/var.less">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="20" selection-start="138" selection-end="138" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="44" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="712" selection-end="712" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rem.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/page/rem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -141,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/less/global.less" />
         <option value="$PROJECT_DIR$/src/less/reset.less" />
         <option value="$PROJECT_DIR$/recommend-book.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/search-cm.html" />
       </list>
     </option>
   </component>
@@ -244,7 +251,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -320,30 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search-cm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="56" selection-start="2383" selection-end="2383" vertical-scroll-proportion="-6.9583335" vertical-offset="313" max-vertical-offset="825">
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="tag#ul#0;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login-bind.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="907" selection-end="916" vertical-scroll-proportion="0.78864354" vertical-offset="80" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="44" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="510">
@@ -358,23 +341,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no-book.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="753" selection-end="759" vertical-scroll-proportion="-10.291667" vertical-offset="8" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/var.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="20" selection-start="138" selection-end="138" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-book.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="17" selection-start="629" selection-end="1053" vertical-scroll-proportion="-10.625" vertical-offset="90" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
@@ -395,21 +364,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend-book.html">
+    <entry file="file://$PROJECT_DIR$/my-book.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="63" selection-start="566" selection-end="566" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="825">
+        <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="990">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no-book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="73" selection-end="79" vertical-scroll-proportion="-2.1666667" vertical-offset="8" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-bind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-1.2244898" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="56" selection-start="2383" selection-end="2383" vertical-scroll-proportion="-4.591837" vertical-offset="255" max-vertical-offset="825">
+          <folding>
+            <element signature="tag#ul#0;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="327">
+        <state line="2" column="38" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend-book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="68" selection-end="72" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search-cm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="56" selection-start="2455" selection-end="2455" vertical-scroll-proportion="0.48630136" vertical-offset="758" max-vertical-offset="1245">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
